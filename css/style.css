@@ -186,7 +186,7 @@ address { font-style: normal; font-size: 0.9em;}
 	.projects-view::before { content: 'Projects'; position: absolute; left: 50%; top: 60px; text-transform: uppercase; font: 106px 'Poppins Bold', sans-serif; letter-spacing: 12px; opacity: 0.1; }
 	.projects-view .image-holder { padding: 16px 0; }
 
-	.contact-view::before { content: 'Contact'; position: absolute; left: 58%; top: -3px; text-transform: uppercase; font: 106px 'Poppins Bold', sans-serif; letter-spacing: 12px; opacity: 0.1; }
+	.contact-view::before { content: 'Contact'; position: absolute; left: 58%; top: -36px; text-transform: uppercase; font: 106px 'Poppins Bold', sans-serif; letter-spacing: 12px; opacity: 0.1; }
 
 	.contact-view h2 { max-width: calc( 100vw / 5 ); }
 	.contact-view p:nth-of-type(1) a { color: inherit; text-decoration: underline; }
